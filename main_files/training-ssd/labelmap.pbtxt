@@ -1,0 +1,60 @@
+item {
+    id: 1
+    name: 'Car'
+}
+item {
+    id: 2
+    name: 'Bus'
+}
+item {
+    id: 3
+    name: 'Bicycle'
+}
+item {
+    id: 4
+    name: 'Truck'
+}
+item {
+    id: 5
+    name: 'Rickshaw'
+}
+item {
+    id: 6
+    name: 'Taxi'
+}
+item {
+    id: 7
+    name: 'Van'
+}
+item {
+    id: 8
+    name: 'Person'
+}
+item {
+    id: 9
+    name: 'Luas'
+}
+item {
+    id: 10
+    name: 'Coach'
+}
+item {
+    id: 11
+    name: 'Airlink'
+}
+item {
+    id: 12
+    name: 'Scooter'
+}
+item {
+    id: 13
+    name: 'Garda_Van'
+}
+item {
+    id: 14
+    name: 'Garda_Car'
+}
+item {
+    id: 15
+    name: 'Mini-Truck'
+}
